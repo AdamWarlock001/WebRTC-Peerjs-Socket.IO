@@ -1,5 +1,5 @@
 
-    var socket = io.connect('https://stream20181.herokuapp.com//');
+    var socket = io.connect('https://chatserver2019.herokuapp.com/');
     var $msgFrom = $('#From');
     var $msg = $('#message');
     var $chat = $('#chat');
